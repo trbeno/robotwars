@@ -1,2 +1,2 @@
 # robotwars
-Project for robotwars KTH
+Project for robotwars
